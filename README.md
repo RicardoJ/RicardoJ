@@ -11,3 +11,5 @@ Love to work within awesome team. Looking forward to collaborate 🤝 and build 
  
 [Medium](https://medium.com/@rjdiazzh)
 
+[Rick Code Blog](https://rickcode.blogspot.com/)
+
