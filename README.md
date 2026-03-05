@@ -1,9 +1,8 @@
 # Hi, I'm Ricardo. A Software Developer 💻
 
-I'm a passionate about good design and best practices, eager to learn, and share knowledge.
-Enjoy working with `JavaScript`,`TypeScript`, and Frontend frameworks such as `ReactJS`[hooks] ,`NextJS`.
-I like challenges.
-Love to work within awesome team. Looking forward to collaborate 🤝 and build amazing products 💯
+Frontend Engineer with 7+ years of experience building web applications using `React` and `TypeScript`.
+Experienced working in distributed teams following Agile methodologies.
+Focused on scalable architecture, performance optimization, maintainable code, and testing strategies.
 
   [![Linkedin: ricardodiazh](https://img.shields.io/badge/-Ricardo%20Diaz%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardodiazh/)](https://www.linkedin.com/in/ricardodiazh/)
   
